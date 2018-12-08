@@ -1,0 +1,25 @@
+{
+      "type": "FeatureCollection",
+      "features": [
+        { "type": "Feature", "properties": { "Name": "Dupont Station", "Address": "1006 Dufferin St" }, "geometry": { "type": "Point", "coordinates": [-79.4058676, 43.675078] } },
+        { "type": "Feature", "properties": { "Name": "Ossington Station", "Address": "756 Ossington Ave" }, "geometry": { "type": "Point", "coordinates": [-79.4259015, 43.6624664] } },
+        { "type": "Feature", "properties": { "Name": "Christie Station", "Address": "5 Christie St" }, "geometry": { "type": "Point", "coordinates": [-79.4333314, 43.6704313] } },
+        { "type": "Feature", "properties": { "Name": "Bathurst Station", "Address": "819 Bathurst St" }, "geometry": { "type": "Point", "coordinates": [-79.4117795, 43.666153] } },
+        { "type": "Feature", "properties": { "Name": "Spadina Station", "Address": "9 Spadina Rd" }, "geometry": { "type": "Point", "coordinates": [-79.4045661, 43.6716763] } },
+        { "type": "Feature", "properties": { "Name": "Bay Station", "Address": "12 Bellair St" }, "geometry": { "type": "Point", "coordinates": [-79.3915146, 43.67010251] } },
+        { "type": "Feature", "properties": { "Name": "Bloor-Yonge Station", "Address": "2 Bloor St" }, "geometry": { "type": "Point", "coordinates": [-79.38558, 43.6705662] } },
+        { "type": "Feature", "properties": { "Name": "Sherbourne Station", "ADDRESS": "600 Sherbourne St" }, "geometry": { "type": "Point", "coordinates": [-79.3771539, 43.67179] } },
+        { "type": "Feature", "properties": { "Name": "Castle Frank Station", "Address": "689 Bloor St" }, "geometry": { "type": "Point", "coordinates": [-79.368366, 43.673511] } },
+        { "type": "Feature", "properties": { "Name": "Broadview Staion", "Address": "778 Broadview Av" }, "geometry": { "type": "Point", "coordinates": [-79.358940, 43.676668] } },
+        { "type": "Feature", "properties": { "Name": "Chester Station", "Address": "16 Chester Av" }, "geometry": { "type": "Point", "coordinates": [-79.3536223, 43.6780876] } },
+        { "type": "Feature", "properties": { "Name": "Union Station", "Address": "65 Front St" }, "geometry": { "type": "Point", "coordinates": [-79.3828018, 43.6451929] } },{ "type": "Feature", "properties": { "Name": "St. Andrew Station", "Address": "147 University Av" }, "geometry": { "type": "Point", "coordinates": [-79.3848423, 43.64781018] } },
+        { "type": "Feature", "properties": { "Name": "Osgoode Station", "Address": "300 University Av" }, "geometry": { "type": "Point", "coordinates": [-79.3867921, 43.6506491] } },
+        { "type": "Feature", "properties": { "Name": "St. Patrick Station", "Address": "465 University Av" }, "geometry": { "type": "Point", "coordinates": [-79.3879909, 43.6548141] } },
+        { "type": "Feature", "properties": { "Name": "Queens Park Station", "Address": "24 Queens Park Cres" }, "geometry": { "type": "Point", "coordinates": [-79.3900951, 43.6599922] } },
+        { "type": "Feature", "properties": { "Name": "Museum Station", "Address": "100 Queens Park Cres" }, "geometry": { "type": "Point", "coordinates": [-79.3937481, 43.667096] } },{ "type": "Feature", "properties": { "Name": "Wellesley Station", "Address": "31 Wellesley St" }, "geometry": { "type": "Point", "coordinates": [-79.3849591, 43.6684244] } },
+        { "type": "Feature", "properties": { "Name": "College Station", "Address": "2 College St" }, "geometry": { "type": "Point", "coordinates": [-79.3833539, 43.6613305] } },
+        { "type": "Feature", "properties": { "Name": "Yonge Dundas Station", "Address": "200 Queens Park Cres" }, "geometry": { "type": "Point", "coordinates": [-79.3812234, 43.656318] } },
+        { "type": "Feature", "properties": { "Name": "Queen St Station", "Address": "220 Yonge St" }, "geometry": { "type": "Point", "coordinates": [-79.3794722, 43.6524268] } },
+        { "type": "Feature", "properties": { "Name": "King St Station", "Address": "3 King St" }, "geometry": { "type": "Point", "coordinates": [-79.3784419, 43.6495055] } }
+      ]
+    }
